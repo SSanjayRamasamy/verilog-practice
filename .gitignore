@@ -1,0 +1,20 @@
+*.vcd
+*.log
+*.jou
+*.rpt
+*.str
+*.swp
+*.bak
+*.tmp
+*.DS_Store
+
+# Vivado directories
+.cache/
+.runs/
+.hw/
+.gen/
+.sim/
+.xil/
+.xpr
+.ip_user_files/
+webtalk/
