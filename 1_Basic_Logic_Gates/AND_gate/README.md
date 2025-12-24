@@ -3,8 +3,10 @@
 ## Description
 (Add a short explanation here)
 
-## Simulation
-![Waveform](simulation.png)
+## Simulation Output (Vivado)
+
+![Simulation](simulation/simulation.png)
+
 
 ## Files
 - AND_gate.v
