@@ -3,7 +3,7 @@
 ## Description
 (Add a short explanation here)
 
-## Simulation Output (Vivado)
+## Simulation Output
 
 ![Simulation](simulation/simulation.png)
 
