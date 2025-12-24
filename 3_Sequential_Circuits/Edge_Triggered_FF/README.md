@@ -4,7 +4,7 @@
 (Add a short explanation here)
 
 ## Simulation
-![Waveform](simulation.png)
+![Waveform](simulation/simulation.png)
 
 ## Files
 - Edge_Triggered_FF.v
