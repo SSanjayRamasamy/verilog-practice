@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sanjay/Desktop/Git_repositories/verilog-practice/1_Basic_Logic_Gates/AND_gate/AND_gate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AND_gate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Sanjay/Desktop/Git_repositories/verilog-practice/1_Basic_Logic_Gates/AND_gate/AND_gate_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AND_gate_tb
+ERROR: [VRFC 10-4982] syntax error near '+' [C:/Users/Sanjay/Desktop/Git_repositories/verilog-practice/1_Basic_Logic_Gates/AND_gate/AND_gate_tb.v:7]
+ERROR: [VRFC 10-8530] module 'AND_gate_tb' is ignored due to previous errors [C:/Users/Sanjay/Desktop/Git_repositories/verilog-practice/1_Basic_Logic_Gates/AND_gate/AND_gate_tb.v:1]
