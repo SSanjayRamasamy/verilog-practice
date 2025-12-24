@@ -4,7 +4,7 @@
 (Add a short explanation here)
 
 ## Simulation
-![Waveform](simulation.png)
+![Simulation](simulation/simulation.png)
 
 ## Files
 - NAND_gate.v
