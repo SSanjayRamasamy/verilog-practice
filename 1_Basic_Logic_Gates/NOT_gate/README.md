@@ -1,7 +1,7 @@
 # NOT_gate
 
 ## Description
-(Add a short explanation here)
+(Add a short explanation here
 
 ## Simulation
 ![Waveform](simulation/simulation.png)
