@@ -10,7 +10,7 @@ A NOT gate has only one input, and its output is always the logical complement o
 
 - If the input is 1, the output is 0.
 
-In this project, the NOT gate is implemented in Verilog HDL using gate level modeling
+In this project, the NOT gate is implemented in Verilog HDL using gate level modeling.
 
 ## Simulation
 ![Waveform](simulation/simulation.png)
