@@ -1,7 +1,7 @@
 # XOR_gate
 
 ## Description
-The XOR gate (Exclusive-OR gate) is a fundamental digital logic gate. It outputs 1 when the number of 1s in the inputs is odd. Hence, it can be used to find if all the inputs are not same.
+The XOR gate (Exclusive-OR gate) is a fundamental digital logic gate. It outputs 1 when the number of 1s in the inputs is odd.
 
 In this project, the 2 input XOR gate is implemented in Verilog HDL using gate level modeling.
 
