@@ -1,7 +1,7 @@
-module Comparator_tb();
-localparam N=100;
+module Signed_Integer_Comparator_tb();
+localparam N=10;
 wire greater,equal,lesser;
-reg [N-1:0]a,b;
+reg signed [N-1:0]a,b;
 
 Comparator #(N) UUT (a,b,greater,equal,lesser);
 
@@ -16,6 +16,15 @@ initial begin
     #10;
     a=0;
     b=0;
+    #10;
+    a=-10'sd100;
+    b=-10'sd100;
+    #10;
+    a=-10'sd100;
+    b=-10'sd99;
+    #10;
+    a=10'sd100;
+    b=-10'sd100;
     #10;
     $finish;
 end

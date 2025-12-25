@@ -1,3 +1,3 @@
-module Barrel_Shifter_tb();
+//module Barrel_Shifter_tb();
 
-endmodule
+//endmodule
