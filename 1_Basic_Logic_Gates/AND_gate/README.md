@@ -13,7 +13,7 @@ In the simulation waveform:
 
   - The blue signals (a, b) represent the inputs to the AND gate.
 
-  - The green signal (y) represents the output of the gate.
+  - The green signal (y) represents the output of the AND gate.
 
   - The yellow signal (i) is the looping variable used inside the testbench to apply different input combinations to the AND gate.
 ## Files
