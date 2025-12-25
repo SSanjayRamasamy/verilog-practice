@@ -5,7 +5,7 @@ NAND gate is one of the two universal gates, meaning any basic logic gate can im
 
 It is the complement of the AND gate, i.e., the output becomes 0 only when all the inputs are 1. In all other input combinations, the output remains 1.
 
-In this project, the NAND gate is implemented in Verilog HDL using gate level modeling
+In this project, the 2-input NAND gate is implemented in Verilog HDL using gate level modeling.
 
 ## Simulation
 ![Simulation](simulation/simulation.png)
