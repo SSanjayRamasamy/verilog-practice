@@ -3,7 +3,7 @@
 ## Description
 OR gate is one of the basic gates used in digital logic design. It behaves as majority-1 gate as even if one of the input signal is 1 then the output is 1.
 
-In this project, the OR gate is implemented in Verilog HDL using gate level modeling
+In this project, the 2-input OR gate is implemented in Verilog HDL using gate level modeling.
 
 ## Simulation
 ![Waveform](simulation/simulation.png)
