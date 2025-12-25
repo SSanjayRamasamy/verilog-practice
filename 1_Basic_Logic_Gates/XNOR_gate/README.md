@@ -3,7 +3,7 @@
 ## Description
 The XNOR gate (Exclusive-NOR gate) is a fundamental digital logic gate and is the complement of the XOR gate. It outputs 1 when the number of 1s in the inputs is even.
 
-In this project, the 2 input XNOR gate is implemented in Verilog HDL using gate level modeling.
+In this project, the 2-input XNOR gate is implemented in Verilog HDL using gate level modeling.
 
 ## Simulation
 ![Waveform](simulation/simulation.png)
