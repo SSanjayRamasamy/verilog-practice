@@ -10,6 +10,7 @@ In this project, the AND gate is implemented in Verilog HDL using gate level mod
 ![Simulation](simulation/simulation.png)
 
 In the simulation waveform:
+
   -The blue signals (a, b) represent the inputs to the AND gate.
 
   -The green signal (y) represents the output of the gate.
