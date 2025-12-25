@@ -5,7 +5,7 @@ NOR gate is one of the two universal gates, meaning any basic logic gate can imp
 
 It is the complement of the OR gate, i.e., the output becomes 1 only when all the inputs are 0. In all other input combinations, the output remains 0.
 
-In this project, the NOR gate is implemented in Verilog HDL using gate level modeling
+In this project, the 2-input NOR gate is implemented in Verilog HDL using gate level modeling.
 
 ## Simulation
 ![Simulation](simulation/simulation.png)
