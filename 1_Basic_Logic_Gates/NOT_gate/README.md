@@ -17,9 +17,9 @@ In the simulation waveform:
 
   - The blue signals (a) represent the input to the NOT gate.
 
-The green signal (y) represents the output of the NOT gate.
+- The green signal (y) represents the output of the NOT gate.
 
-The yellow signal (i) is the looping variable used inside the testbench to apply different input combinations to the NOT gate.
+- The yellow signal (i) is the looping variable used inside the testbench to apply different input combinations to the NOT gate.
 
 
 ## Files
