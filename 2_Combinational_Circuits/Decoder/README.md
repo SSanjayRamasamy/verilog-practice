@@ -5,6 +5,7 @@
 
 ## Simulation
 ![Waveform](simulation/simulation.png)
+
 ![Waveform](simulation/simulation1.png)
 ## Files
 - Decoder.v
