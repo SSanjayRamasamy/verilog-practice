@@ -8,7 +8,7 @@ Full_Adder UUT (a,b,cin,sum,carry);
 
 initial begin
 
-    for(i=0;i<16;i=i+1) begin
+    for(i=0;i<8;i=i+1) begin
         {a,b,cin}=i;
         #10;
     end
