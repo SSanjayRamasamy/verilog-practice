@@ -5,7 +5,7 @@
 
 ## Simulation
 ![Waveform](simulation/simulation.png)
-
+ 
 ## Files
 - Parity_Generator_Checker.v
 - Parity_Generator_Checker_tb.v
